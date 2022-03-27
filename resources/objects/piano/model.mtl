@@ -1,0 +1,8 @@
+# Made in Blockbench 2.6.6
+newmtl 0
+map_Kd piano1.png
+newmtl 1
+map_Kd piano2.png
+newmtl 2
+map_Kd piano_keys.png
+newmtl none

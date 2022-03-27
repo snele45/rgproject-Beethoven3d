@@ -1,0 +1,21 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.1)
+
+newmtl DefaultMaterial
+Kd 0.6000000238418579 0.6000000238418579 0.6000000238418579
+Ke 0 0 0
+illum 1
+
+newmtl material_1
+Kd 0.6000000238418579 0.6000000238418579 0.6000000238418579
+Ke 0 0 0
+illum 1
+map_Kd g0_baseColor.png
+
+newmtl defaultobject_Bake
+Kd 1 1 1
+Ke 0 0 0
+illum 1
+map_Kd defaultobject_Color_1_80180176.png
+bump defaultobject_Normal_2_9330094.png
+map_bump defaultobject_Normal_2_9330094.png
