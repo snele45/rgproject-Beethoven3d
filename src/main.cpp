@@ -390,7 +390,7 @@ int main()
 
         //beethoven
         model = glm::mat4(1.0f);
-        model = glm::translate(model, glm::vec3(-1.25f, 2.1f, -1.25f));
+        model = glm::translate(model, glm::vec3(-1.25f, 2.5f, -1.00f));
         model = glm::scale(model, glm::vec3(20.0f, 20.0f, 20.0f));
         objectShader.setMat4("model", model);
         beethovenModel.Draw(objectShader);
